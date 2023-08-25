@@ -1,0 +1,123 @@
+Aula em laboratório de informática com auxilio de Datashow.  
+
+
+Terceiro bimestre
+26/07 a 11/10
+
+Quarto bimestre
+16/10 a 22/12
+
+Aula em laboratório de informática com auxilio de Datashow.  
+Desenvolvimento de Aplicativos em flutter
+Recursos apresentados:
+ - Navegação entre telas,
+ - Criação de layouts ( Container, Column, Scaffolds, button, Text)
+
+
+Aula em laboratório de informática com auxilio de Datashow.  
+Desenvolvimento de Aplicativos em flutter
+Recursos apresentados:
+ - Navegação entre telas,
+ - Criação de widget -  Container, Column, Scaffolds, button, Text , Imagns.
+
+Aula em laboratório de informática com auxilio de Datashow e com 
+desenvolvimento de Aplicativos em flutter.
+Recursos apresentados:
+ - Navegação entre telas,
+ - Criação de widget -  Container, Column, Scaffolds, button, Text , Imagns.
+Desenvolvimento de APP - Controlador de pessoas em restaurante. 
+
+
+Desenvolvimento de Aplicativos em flutter
+Conteudo estudados , listas, views. Navegação de telas
+Desenvolvimento de APP - Lista de tarefas.
+
+Aula em laboratório de informática com auxilio de Datashow e com 
+desenvolvimento de Aplicativos em flutter.
+Criação e configuração de componentes básicos:
+texto.
+Botões:
+imagens
+Elistas
+Views.
+Navegação de telas
+
+Aula em laboratório de informática com auxilio de Datashow e com 
+desenvolvimento de Aplicativos em flutter.
+Conceitos  apresentados e executados:
+acelerômetro
+contatos
+imagens
+galerias
+
+Aula em laboratório de informática com auxilio de Datashow e com 
+desenvolvimento de Aplicativos em flutter.
+Conceitos  apresentados e executados:
+giroscópio
+acelerômetro
+geolocation.
+
+Aula em laboratório de informática com auxilio de Datashow e com 
+desenvolvimento de Aplicativos em flutter.
+Conceitos  apresentados e executados:
+Manipulação de banco de dados no dispositivo.
+
+
+Desenvolvimento de aplicativos com correlacionado entre outros componentes.
+Documentação dart: https://dartguide.dev/
+
+Desenvolvimento APP com conteúdo apresentado no bimestre
+
+
+
+Aula em laboratório de informática com auxilio de Datashow.  
+Desenvolvimento em java para web, 
+framework, sprinboot.
+
+Aula em laboratório de informática com auxilio de Datashow.  
+Desenvolvimento de projeto em java para web utilizando  
+framework, sprinboot, JPA e template engine thymeleaf para integrgacao com backend.
+
+
+Aula em laboratório de informática com auxilio de Datashow.  
+Desenvolvimento de projeto em java para web utilizando  
+framework, sprinboot, JPA e template engine thymeleaf para integrgacao com backend.
+Integração com banco H2
+
+
+Aula em laboratório de informática com auxilio de Datashow.  
+Desenvolvimento de projeto em java para web utilizando  
+framework, sprinboot, JPA e template engine thymeleaf para integrgacao com backend.
+Integração com banco H2, criacao de tabelas relacionada no JPA
+
+Aula em laboratório de informática com auxilio de Datashow.  
+Desenvolvimento de projeto em java para web utilizando 
+Criação de REST APIs • URI e Requests; 
+
+
+
+Aula em laboratório de informática com auxilio de Datashow.  
+Desenvolvimento de projeto em java para web utilizando 
+Criação de REST APIs • URI e Requests do tipo POST, DELETE, PUT, GET 
+
+
+Aula em laboratório de informática com auxilio de Datashow.  
+Desenvolvimento de projeto em java para web utilizando 
+Criação de teste unitarios e usabilidade 
+
+Desenvolver sistemas para Internet com tecnologia de página única.
+
+Aplicações Web de página única (SPA)• Renderização de HTML;
+
+Utilizar framework adequado para aplicações em página única.
+
+Codificar software em linguagem para web.
+ Utilizar framework adequado para aplicações em página única.
+ Realizar persistência, utilizando serviços REST
+
+
+Aplicações Web de página única (SPA)
+Conceitos de CMS - Content Management System
+Acesso a dados via APIs REST
+Autenticação e autorização
+Testes automatizados
